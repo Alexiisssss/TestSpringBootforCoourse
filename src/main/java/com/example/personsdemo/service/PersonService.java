@@ -1,8 +1,8 @@
-package com.example.customerdemo.service;
+package com.example.personsdemo.service;
 
 
-import com.example.customerdemo.entity.Persons;
-import com.example.customerdemo.repository.PersonRepository;
+import com.example.personsdemo.entity.Persons;
+import com.example.personsdemo.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

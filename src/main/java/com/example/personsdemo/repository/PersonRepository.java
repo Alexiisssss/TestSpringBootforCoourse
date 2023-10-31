@@ -1,5 +1,5 @@
-package com.example.customerdemo.repository;
-import com.example.customerdemo.entity.Persons;
+package com.example.personsdemo.repository;
+import com.example.personsdemo.entity.Persons;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 
